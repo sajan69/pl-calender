@@ -1,0 +1,16 @@
+#gitignore for a python project
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+.env
+venv/
+.idea/
+.vscode/
+*.sqlite3
+*.db
+env/
+*.log
